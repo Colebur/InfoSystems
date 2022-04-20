@@ -1,0 +1,32 @@
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: lightgray;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+        text-decoration-color: lightskyblue;
+        text-decoration-style: wavy;
+}
+
+h3{
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
